@@ -3,6 +3,7 @@ import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import Features from './components/Features'
 import Showcase from './components/Showcase'
+import Workspace from './components/Workspace'
 import Footer from './components/Footer'
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
       <Hero />
       <Features />
       <Showcase />
+      <Workspace />
       <Footer />
     </div>
   )
